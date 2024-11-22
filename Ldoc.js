@@ -6,8 +6,20 @@ const videos = [
         img: "WhyIsTheOceanSaltyPic.jpg", 
         video: "Why Is Ocean Water Salty(Video).mp4" 
     },
- 
-    
+    {   
+        id: 2, 
+        name: "Cranky at the End of the Line", 
+        artist: "Thomas & Friends", 
+        img: "CrankyLineThomasAndFriendsPic.jpg", 
+        video: "Cranky at the End of the Line _ Thomas & Friends(Video).mp4" 
+    },
+    {   
+        id: 3, 
+        name: "How Do Ants Bite?", 
+        artist: "Dr Binocs Show", 
+        img: "WhyAntsBitePic.jpg", 
+        video: "How Do Ants Bite(Video).mp4" 
+    },
 ];
 
 const searchInput = document.getElementById("search-input");
