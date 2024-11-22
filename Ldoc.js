@@ -1,14 +1,14 @@
 const videos = [
     {   
         id: 1, 
-        name: "Why Is Ocean Water Salty?", 
-        artist: "Dr Binocs Show", 
-        img: "WhyIsTheOceanSaltyPic.jpg", 
-        video: "Why Is Ocean Water Salty(Video).mp4" 
+        name: " The Market #1", 
+        artist: "Peppa Pig", 
+        img: "PeppaTheMarketPic.jpg", 
+        video: "Peppa Pig(Video1).mp4" 
     },
     {   
         id: 2, 
-        name: "Cranky at the End of the Line", 
+        name: "Cranky at the End of the Line-", 
         artist: "Thomas & Friends", 
         img: "CrankyLineThomasAndFriendsPic.jpg", 
         video: "Cranky at the End of the Line _ Thomas & Friends(Video).mp4" 
@@ -19,6 +19,20 @@ const videos = [
         artist: "Dr Binocs Show", 
         img: "WhyAntsBitePic.jpg", 
         video: "How Do Ants Bite(Video).mp4" 
+    },
+    {   
+        id: 4, 
+        name: "Monster Truck", 
+        artist: "Baby Shark", 
+        img: "MonsterTruckPic.jpg", 
+        video: "BabySharkMontersTruck(video).mp4" 
+    },
+    {   
+        id: 5, 
+        name: "Why Is Ocean Water Salty?", 
+        artist: "Dr Binocs Show", 
+        img: "WhyIsTheOceanSaltyPic.jpg", 
+        video: "Why Is Ocean Water Salty(Video).mp4" 
     },
 ];
 
