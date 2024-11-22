@@ -1,10 +1,10 @@
 const videos = [
     {   
         id: 1, 
-        name: "", 
-        artist: "", 
-        img: "", 
-        video: "" 
+        name: "Why Is Ocean Water Salty?", 
+        artist: "Dr Binocs Show", 
+        img: "WhyIsTheOceanSaltyPic.jpg", 
+        video: "Why Is Ocean Water Salty(Video).mp4" 
     },
  
     
