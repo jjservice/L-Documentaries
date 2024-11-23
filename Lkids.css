@@ -115,8 +115,11 @@ body.lightPlayer h1{
   align-items: center;
 }
 #search-input:focus{
+  background-image: url(bonfiregifff.gif);
+  background-position: center;
+  background-size: 100%;
   background-color: rgba(4, 14, 87, 0.322);
-  transition: 0.5s;
+  transition: 1s;
 
 }
 body.lightPlayer #search-input:focus{
