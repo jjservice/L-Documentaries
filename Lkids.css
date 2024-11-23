@@ -296,11 +296,29 @@ body.lightPlayer .video-item button:hover{
     margin-bottom: 10px;
     min-width: 100%;
     box-shadow: 0px 2px 10px darkblue;
+    background-image: url(MovieGifff.gif);
+    background-position: center;
+    background-size: 80%;
+  }
+  .video-player {
+    margin: 0% auto;
+    max-width: 370px;
+    margin: 20px auto;
+    background: rgba(0, 0, 0, 0.363);
+    border: 6px solid rgba(139, 0, 46, 0.336);
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 6px solid rgba(255, 0, 34, 0.342);
+    border-radius: 40px;
+    box-shadow: 0px 2px 15px lightskyblue;
+    height: auto;
+    transition: 4s;
     background-image: url(DancinGif555.gif);
     background-position: bottom;
     background-repeat: no-repeat;
-    background-size: 6%;
+    background-size: 40%;
   }
+ 
   .volume-controls{
     min-width: 200px;
     padding: 5px;
