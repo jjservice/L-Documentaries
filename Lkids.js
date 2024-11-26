@@ -34,6 +34,28 @@ const videos = [
         img: "WhyIsTheOceanSaltyPic.jpg", 
         video: "Why Is Ocean Water Salty(Video).mp4" 
     },
+    {   
+        id: 6, 
+        name: " Do Do Do", 
+        artist: "Baby Shark", 
+        img: "BabySharkDODODOPic.jpg", 
+        video: "Baby Shark Do Do Do(Video).mp4" 
+    },
+    {   
+        id: 7, 
+        name: "Thankgiving", 
+        artist: "Peppa pig", 
+        img: "PeppaPigFirstthanksgivingPic.jpg", 
+        video: "Peppa pig Thankgiving (Video).mp4" 
+    },
+    {   
+        id: 8, 
+        name: "Gardening", 
+        artist: "Peppa Pig", 
+        img: "PeppaPigGardeningPic.webp", 
+        video: "Peppa Pig Season 1 Episode 10 - Gardening -(Video).mp4" 
+    },
+    
 ];
 
 const searchInput = document.getElementById("search-input");
