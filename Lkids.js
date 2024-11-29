@@ -57,10 +57,10 @@ const videos = [
     },
     {   
         id: 9, 
-        name: "", 
-        artist: "", 
-        img: "", 
-        video: "" 
+        name: "Sneak Peek", 
+        artist: "Thomas & Friends", 
+        img: "ThomasSneakPeekPic.jpg", 
+        video: "Thomas & Friends _ Sneak Peek _.mp4" 
     },
     
 ];
