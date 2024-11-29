@@ -55,6 +55,13 @@ const videos = [
         img: "WhyIsTheOceanSaltyPic.jpg", 
         video: "Why Is Ocean Water Salty(Video).mp4" 
     },
+    {   
+        id: 9, 
+        name: "", 
+        artist: "", 
+        img: "", 
+        video: "" 
+    },
     
 ];
 
