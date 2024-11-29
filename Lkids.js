@@ -43,7 +43,7 @@ const videos = [
     },
     {   
         id: 7, 
-        name: "Monster Truck", 
+        name: "Monster Trucks", 
         artist: "Baby Shark", 
         img: "MonsterTruckPic.jpg", 
         video: "BabySharkMontersTruck(video).mp4" 
