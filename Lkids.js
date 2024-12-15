@@ -8,62 +8,69 @@ const videos = [
     },
     {   
         id: 2, 
+        name: "Full Feature", 
+        artist: "Trouble Brewing", 
+        img: "TroubleGrewingsPic.jpg", 
+        video: "Trouble Brewing Full Feature.mp4" 
+    },
+    {   
+        id: 3, 
         name: "Thankgiving", 
         artist: "Peppa pig", 
         img: "PeppaPigFirstthanksgivingPic.jpg", 
         video: "Peppa pig Thankgiving (Video).mp4" 
     },
     {   
-        id: 3, 
+        id: 4, 
         name: " Do Do Do", 
         artist: "Baby Shark", 
         img: "BabySharkDODODOPic.jpg", 
         video: "Baby Shark Do Do Do(Video).mp4" 
     },
     {   
-        id: 4, 
+        id: 5, 
         name: "Gardening", 
         artist: "Peppa Pig", 
         img: "PeppaPigGardeningPic.webp", 
         video: "Peppa Pig Season 1 Episode 10 - Gardening -(Video).mp4" 
     },
     {   
-        id: 5, 
+        id: 6, 
         name: " The Market #1", 
         artist: "Peppa Pig", 
         img: "PeppaTheMarketPic.jpg", 
         video: "Peppa Pig(Video1).mp4" 
     },
     {   
-        id: 6, 
+        id: 7, 
         name: "Cranky at the End of the Line-", 
         artist: "Thomas & Friends", 
         img: "CrankyLineThomasAndFriendsPic.jpg", 
         video: "Cranky at the End of the Line _ Thomas & Friends(Video).mp4" 
     },
     {   
-        id: 7, 
+        id: 8, 
         name: "How Do Ants Bite?", 
         artist: "Dr Binocs Show", 
         img: "WhyAntsBitePic.jpg", 
         video: "How Do Ants Bite(Video).mp4" 
     },
     {   
-        id: 8, 
+        id: 9, 
         name: "Monster Trucks", 
         artist: "Baby Shark", 
         img: "MonsterTruckPic.jpg", 
         video: "BabySharkMontersTruck(video).mp4" 
     },
     {   
-        id: 9, 
+        id: 10, 
         name: "Why Is Ocean Water Salty?", 
         artist: "Dr Binocs Show", 
         img: "WhyIsTheOceanSaltyPic.jpg", 
         video: "Why Is Ocean Water Salty(Video).mp4" 
     },
     {   
-        id: 10, 
+        id: 11, 
         name: "Sneak Peek", 
         artist: "Thomas & Friends", 
         img: "ThomasSneakPeekPic.jpg", 
