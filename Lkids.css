@@ -54,8 +54,8 @@ body.lightPlayer .video-player{
   background: rgba(6, 114, 182, 0.493);
   transition: 0.5s;
   border: 1px solid rgba(153, 205, 50, 0.781);
-  box-shadow: 0px 1px 4px lightskyblue;
-  margin-bottom: 10px;
+  box-shadow: 0px 2px 6px lightskyblue;
+  padding: 1px;
   cursor: pointer;
 }
 
