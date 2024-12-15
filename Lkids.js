@@ -1,10 +1,10 @@
 const videos = [
     {   
         id: 1, 
-        name: "Santa is Here!", 
-        artist: "Peppa's Christmas Special", 
-        img: "PeppaFatherChristmasPic.jpg", 
-        video: "Peppa's Christmas Special.mp4" 
+        name: "An AI Christmas Film", 
+        artist: "THE NAUGHTY LIST", 
+        img: "TheNautyListPic.jpg", 
+        video: "THE NAUGHTY LIST   -  An AI Christmas Film.mp4" 
     },
     {   
         id: 2, 
@@ -15,10 +15,10 @@ const videos = [
     },
     {   
         id: 3, 
-        name: "Thankgiving", 
-        artist: "Peppa pig", 
-        img: "PeppaPigFirstthanksgivingPic.jpg", 
-        video: "Peppa pig Thankgiving (Video).mp4" 
+        name: "Santa is Here!", 
+        artist: "Peppa's Christmas Special", 
+        img: "PeppaFatherChristmasPic.jpg", 
+        video: "Peppa's Christmas Special.mp4" 
     },
     {   
         id: 4, 
@@ -76,6 +76,14 @@ const videos = [
         img: "ThomasSneakPeekPic.jpg", 
         video: "Thomas & Friends _ Sneak Peek _.mp4" 
     },
+    {   
+        id: 12, 
+        name: "Thankgiving", 
+        artist: "Peppa pig", 
+        img: "PeppaPigFirstthanksgivingPic.jpg", 
+        video: "Peppa pig Thankgiving (Video).mp4" 
+    },
+    
     
 ];
 
